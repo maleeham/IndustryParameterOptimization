@@ -1,7 +1,7 @@
 #ifndef CAMERAWIDGET_H
 #define CAMERAWIDGET_H
 
-#include <QPixmap>
+//#include <QPixmap>
 #include <QLabel>
 #include <QWidget>
 #include <QVBoxLayout>
